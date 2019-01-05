@@ -1,3 +1,3 @@
 # machine_learning_miniprojects
-# all the projects are done in the Cornell CS4780.
+# All the projects are from course CS4780 at Cornell University.
 # Comments in each notebook decipts in detail what each mini-project is about.
